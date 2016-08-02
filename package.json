@@ -1,0 +1,20 @@
+{
+  "name": "leaflet.TileLayer.WMTS",
+  "version": "1.0.0",
+  "description": "leaflet.TileLayer.WMTS ======================",
+  "main": "leaflet-tilelayer-wmts-src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieterjandesmedt/leaflet.TileLayer.WMTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieterjandesmedt/leaflet.TileLayer.WMTS/issues"
+  },
+  "homepage": "https://github.com/pieterjandesmedt/leaflet.TileLayer.WMTS#readme"
+}
